@@ -13,7 +13,7 @@ function App() {
   <br/>
   <Typography variant="body2" color="text.secondary" align="center">
       {'Copyright © '}
-      <Link color="inherit" href="www.linkedin.com/in/rana-ali-849baa243">
+      <Link color="inherit" href="https://www.linkedin.com/in/rana-ali-849baa243/">
         Create by Rana Ali😁💕
       </Link>{' '}
       {new Date().getFullYear()}

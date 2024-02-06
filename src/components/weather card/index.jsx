@@ -23,7 +23,7 @@ let Cards = ({ date, temp, min, max  }) => {
 
           
           <Card.Text> {temp}°C </Card.Text>
-          <Card.Title>{min}°C-{max}°C</Card.Title>
+          <Card.Title>{min}°C to {max}°C</Card.Title>
 
           
 

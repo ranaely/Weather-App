@@ -6,7 +6,7 @@ function About() {
 
 
   return (
-    <nav><h1 style={{ padding:'5%' ,marginInlineStart:'35%', color:'Highlight', paddingBottom:'8%'}}>Weather App</h1>
+    <nav><h1 style={{ padding:'5%' ,marginInlineStart:'30%', color:'Highlight', paddingBottom:'8%'}}>Weather App</h1>
     </nav>
   )
 }

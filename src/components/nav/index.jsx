@@ -1,11 +1,14 @@
 import React from 'react'
+import './index.css'
+
 
 function About() {
 
 
   return (
-    <nav><h1 style={{ padding:'2%' , marginInlineStart:'40%', color:'Highlight'}}>Weather App</h1></nav>
+    <nav><h1 style={{ padding:'5%' ,marginInlineStart:'35%', color:'Highlight', paddingBottom:'8%'}}>Weather App</h1>
+    </nav>
   )
 }
 
-export default About
+export default About;
